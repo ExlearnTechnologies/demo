@@ -1,2 +1,2 @@
-echo "This is backup script from Jenkins. One more change"
+echo "This is backup script"
 date
